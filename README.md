@@ -17,7 +17,7 @@ This project demonstrates hand tracking using OpenCV and the `cvzone` Hand Track
 
 If you've hosted a demo (optional), you can provide the link here:
 
-- [Live Demo](demo_link_if_available)
+- [Live Demo](https://drive.google.com/file/d/1lsiiDDB_llLfD5ZNrZKDH6EZli020Mrj/view?usp=sharing)
 
 ## Setup and Installation
 
