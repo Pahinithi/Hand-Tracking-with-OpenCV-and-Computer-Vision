@@ -64,3 +64,13 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Contact
+
+For any questions or support, please contact:
+
+- **Name**: Pahirathan Nithilan
+- **Email**: [nithilan32@gmail.com](mailto:nithilan32@gmail.com)
+- **GitHub**: [Pahinithi](https://github.com/Pahinithi)
+
