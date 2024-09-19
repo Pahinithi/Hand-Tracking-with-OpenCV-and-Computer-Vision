@@ -23,7 +23,7 @@ If you've hosted a demo (optional), you can provide the link here:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Pahinithi/Hand-Tracking-OpenCV.git
+    git clone https://github.com/Pahinithi/Hand-Tracking-with-OpenCV-and-Computer-Vision
     ```
 
 2. **Install the required dependencies**:
